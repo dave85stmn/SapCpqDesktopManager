@@ -2,8 +2,10 @@
 *
 
 # except these folders
-!src/main/java
-!src/main/resources
+!/src/
+!/src/main/
+!/src/main/java/**
+!/src/main/resources/**
 
 # except these files
 !.gitignore
