@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# except these folders
+!src/main/**
+
+# except these files
+!.gitignore
+!README.md
+!pom.xml

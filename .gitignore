@@ -1,0 +1,13 @@
+# ignore all
+*
+
+# track these folders
+!cpqdesk-app/
+!cpqdesk-core/
+!cpqdesk-feature-customtable/
+!cpqdesk-feature-quotesniffer/
+!cpqdesk-feature-setup/
+
+# track these files
+!pom.xml
+!README.md
