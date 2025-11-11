@@ -26,7 +26,7 @@
         <javafx.version>21.0.3</javafx.version>
         <jackson.version>2.17.2</jackson.version>
         <calcite.version>1.37.0</calcite.version>
-        <keyring.version>1.2.1</keyring.version>
+        <keyring.version>1.0.4</keyring.version>
 
         <junit.version>5.11.0</junit.version>
         <mockito.version>5.12.0</mockito.version>
@@ -81,12 +81,6 @@
                 <groupId>org.wiremock</groupId>
                 <artifactId>wiremock</artifactId>
                 <version>${wiremock.version}</version>
-                <scope>test</scope>
-            </dependency>
-            <dependency>
-                <groupId>org.testfx</groupId>
-                <artifactId>openjfx-monocle</artifactId>
-                <version>${testfx.version}</version>
                 <scope>test</scope>
             </dependency>
             <dependency>

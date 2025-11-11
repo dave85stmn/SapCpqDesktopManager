@@ -2,7 +2,7 @@
 *
 
 # except these folders
-!src/main/**
+!src/main/java
 !src/main/resources
 
 # except these files
